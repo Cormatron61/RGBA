@@ -49,8 +49,7 @@ class ViewController: UIViewController {
     @IBAction func redSwitch(_ sender: UISwitch) {
         doColors( )
     }
-    
-    
+    // yada yada yada
     @IBOutlet weak var alphaSwitch: UISwitch!
     
     @IBAction func alphaSwitch(_ sender: UISwitch) {
